@@ -32,16 +32,21 @@ This project is a social media homepage that displays posts along with their cor
 ## Screenshots
 
 1. Home Page with Posts
+
 ![Home Page with Posts](https://github.com/viswamvs/social-media-homepage/blob/master/images/home%20page.png)
 
 2. Post along with their comments
+
 ![Post along with their comments](https://github.com/viswamvs/social-media-homepage/blob/master/images/post%20with%20comments.png)
 
 3. Home Page with Posts (Mobile View)
+
 ![Home page with posts (mobile view)](https://github.com/viswamvs/social-media-homepage/blob/master/images/posts%20mobile%20view.png)
 
 4. Post with their comments (Mobile View)
+
 ![Post with their comments (mobile view)](https://github.com/viswamvs/social-media-homepage/blob/master/images/post%20with%20comments%20(mobile%20View).png)
 
 5. Development In Progress Page
+
 ![development-in-progress page](https://github.com/viswamvs/social-media-homepage/blob/master/images/development-in-progress%20page.png)
