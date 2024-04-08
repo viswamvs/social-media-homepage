@@ -30,4 +30,4 @@ This project is a social media homepage that displays posts along with their cor
 - User avatars generated using [Picsum](https://picsum.photos/).
 
 ## Screenshots
-![Home Page with Posts] https://github.com/viswamvs/social-media-homepage/blob/master/images/home%20page.png
+![Home Page with Posts](https://github.com/viswamvs/social-media-homepage/blob/master/images/home%20page.png)
