@@ -29,4 +29,5 @@ This project is a social media homepage that displays posts along with their cor
 - Mock API data provided by [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 - User avatars generated using [Picsum](https://picsum.photos/).
 
-
+## Screenshots
+![Home Page with Posts] https://github.com/viswamvs/social-media-homepage/blob/master/images/home%20page.png
