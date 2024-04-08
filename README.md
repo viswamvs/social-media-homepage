@@ -29,6 +29,4 @@ This project is a social media homepage that displays posts along with their cor
 - Mock API data provided by [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 - User avatars generated using [Picsum](https://picsum.photos/).
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
